@@ -1,74 +1,69 @@
 # Hi 👋 I'm Abhinav Santhosh
 
 🎓 B.Tech in Artificial Intelligence & Data Science  
-💡 Passionate about Software Development, Problem Solving & Building Real-World Applications  
-🚀 Currently exploring Full Stack Development & Flutter  
+💡 Passionate about Software Development & Problem Solving  
+🚀 Exploring Full Stack Development & Flutter  
 🎯 Actively looking for Internship Opportunities  
 
 ---
 
 ## 🧠 About Me
 
-- 💻 I enjoy building practical projects that solve real problems  
+- 💻 I build practical projects that solve real-world problems  
 - 📚 Strong foundation in Data Structures, OOP & Operating Systems  
-- 🔧 Hands-on experience with Flutter and Web Technologies  
-- 🧪 Interested in AI-based applications and interactive UI systems  
+- 🔧 Hands-on experience with Web & Mobile development  
+- 🧪 Interested in AI-driven applications and interactive UI systems  
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-C • Python • Java • Dart  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 🌐 Web Development
-HTML • CSS • JavaScript  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 📱 Mobile Development
-Flutter  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Rive](https://img.shields.io/badge/Rive-000000?style=for-the-badge)
 
 ### 🗄️ Database
-MySQL  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧠 Core Computer Science
-Data Structures  
-Object-Oriented Programming (OOP)  
-Operating Systems  
-DBMS  
+### 🧠 Core CS Concepts
+Data Structures • Object-Oriented Programming • Operating Systems • DBMS
 
 ---
 
 ## 📌 Projects
 
 ### 📚 Note Sharing Platform
-- Web platform to upload and view notes (Images & PDF)
-- Frontend: HTML, CSS, JavaScript  
-- Backend: MySQL  
-- Focused on clean UI & structured data handling  
+- Upload & view notes (Images & PDF)
+- Built using HTML, CSS, JavaScript & MySQL
+- Structured backend with query-based database
 
 ### ⏳ CPU Scheduling Simulator (SRTF)
-- Implemented Shortest Remaining Time First Scheduling
-- Generated Gantt Chart & Process Statistics
-- Written in C for OS Lab  
+- Implemented Shortest Remaining Time First in C
+- Generated Gantt Chart & calculated process statistics
 
 ### 🎮 Interactive 2D Fidget Toy
 - Built using Rive + Flutter
-- Focused on realistic UI animation and interaction  
-
----
-
-## 📊 GitHub Stats
-
-![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+- Focused on realistic interaction & animation
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: yourmail@example.com  
-🔗 LinkedIn: your-link-here  
+📧 Email: abhinav522005@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/abhinavsanthosh1289
+
+  
 
 ---
 
