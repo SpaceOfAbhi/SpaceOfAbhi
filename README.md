@@ -13,6 +13,7 @@
 | Project | Tech Stack | Links |
 |---------|------------|-------|
 | **NoStressr** – Stress Management | `Flutter` `Dart` `Firebase` | [📁 Repo](https://github.com/SpaceOfAbhi/NoStressr) |
+| **APLMS**  | `HTML` `CSS` `ElectronJs` `NodeJs` `Firebase` | [📁 Repo](https://github.com/SpaceOfAbhi/Academic-programming-laboratory-management-system) |
 
 ---
 
