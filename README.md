@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Abhinav%20Santhosh&fontSize=70" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=50&pause=1000&color=79ff97&center=true&vCenter=true&width=600&height=100&lines=Abhinav+Santhosh" />
 </p>
-
-# Hi 👋, I'm Abhinav Santhosh
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&Center=true&vCenter=true&width=500&height=70&duration=4000&lines=Flutter+Developer;Problem+Solver;Tech+Enthusiast" />
