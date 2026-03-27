@@ -20,7 +20,7 @@
 
 | | |
 |---|---|
-| 🔭 **Working on** | NoStressr & Stress-management tools |
+| 🔭 **Working on** | Mobile Application Development |
 | 🌱 **Learning** | Advanced Flutter • Firebase UI |
 | 🤝 **Looking for** | Internship & Open-source collabs |
 | ⚡ **Fun fact** | I love building apps that solve real-world problems |
