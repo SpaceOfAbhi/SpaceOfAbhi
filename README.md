@@ -5,7 +5,7 @@
 # Hi 👋, I'm Abhinav Santhosh
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&Center=true&vCenter=true&width=500&height=70&duration=4000&lines=Full+Stack+Developer;Creative+Designer;Problem+Solver;Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&Center=true&vCenter=true&width=500&height=70&duration=4000&lines=Flutter+Developer;Problem+Solver;Tech+Enthusiast" />
 </p>
 
 ---
@@ -19,21 +19,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SpaceOfAbhi&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Overall Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceOfAbhi&layout=compact&theme=tokyonight&hide_border=true&align=center" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SpaceOfAbhi&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</p>
-
----
 
 ## 🛠️ Tech Stack
 
