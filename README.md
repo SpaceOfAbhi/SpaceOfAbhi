@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Abhinav%20Santhosh&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Abhinav%20Santhosh&fontSize=70" />
 </p>
 
 # Hi 👋, I'm Abhinav Santhosh
@@ -34,7 +34,7 @@
 
 ### 🧰 Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" />
 </p>
 
 ### 🗄️ Databases
