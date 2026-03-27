@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=50&pause=1000&color=79ff97&center=true&vCenter=true&width=600&height=100&lines=Abhinav+Santhosh" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&text=Abhinav%20Santhosh&fontSize=70&fontColor=79ff97&animation=twinkle" />
 </p>
 
 <p align="center">
