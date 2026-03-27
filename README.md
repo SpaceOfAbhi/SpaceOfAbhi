@@ -1,74 +1,38 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=4000&pause=1000&color=79ff97&center=true&vCenter=true&width=500&height=100&lines=Hi%2C+I'm+Abhinav+Santhosh;Flutter+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,java,dart,html,css,js,flutter,mysql,git,github,vscode,firebase" />
+</div>
+
+---
+
+### 🚀 Projects
+
+| Project | Tech Stack | Links |
+|---------|------------|-------|
+| **NoStressr** – Stress Management | `Flutter` `Dart` `Firebase` | [📁 Repo](https://github.com/SpaceOfAbhi/NoStressr) |
+
+---
+
+### 📌 Quick Bits
+
+| | |
+|---|---|
+| 🔭 **Working on** | NoStressr & Stress-management tools |
+| 🌱 **Learning** | Advanced Flutter • Firebase UI |
+| 🤝 **Looking for** | Internship & Open-source collabs |
+| ⚡ **Fun fact** | I love building apps that solve real-world problems |
+
+---
+
+### 📫 Find me
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&text=Abhinav%20Santhosh&fontSize=70&fontColor=79ff97&animation=twinkle" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&Center=true&vCenter=true&width=500&height=70&duration=4000&lines=Flutter+Developer;Problem+Solver;Tech+Enthusiast" />
-</p>
-
----
-
-### About Me
-
-🎓 **B.Tech** in Computer Science and Engineering  
-💻 **Passionate** about Software Development & Problem Solving  
-🚀 **Exploring** Flutter development  
-🎯 **Actively** looking for Internship Opportunities  
-
----
-
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,java,dart,js,html,css" />
-</p>
-
-### 🚀 Frameworks & Libraries
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter" />
-</p>
-
-### 🧰 Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" />
-</p>
-
-### 🗄️ Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
----
-
-## 🚀 Featured Project
-
-### 🧘 **NoStressr**
-> *Your personal interactive companion for stress management.*
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" alt="Dart" />
-</p>
-
-A comprehensive stress-management application that utilizes **interactive fidget-based relaxation techniques**. It features integrated **stress assessment tools**, a clean and modern UI, and smooth animations to provide a calming user experience.
-
-#### ✨ Key Features:
-- 🛠️ **Interactive Fidgets**: Tactile stress relief.
-- 📊 **Stress Tracking**: Real-time assessment tools.
-- 🎨 **Aesthetic UI**: Responsive and clean Flutter design.
-- 🧊 **Fluid Animations**: Smooth transitions for immersion.
-
-🔗 [View Project Repository](https://github.com/SpaceOfAbhi/NoStressr)
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="mailto:abhinav522005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/abhinavsanthosh1289"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/SpaceOfAbhi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/abhinavsanthosh1289"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abhinav522005@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
