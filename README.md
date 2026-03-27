@@ -22,7 +22,7 @@
 | | |
 |---|---|
 | 🔭 **Working on** | Mobile Application Development |
-| 🌱 **Learning** | Advanced Flutter • Firebase UI |
+| 🌱 **Learning** | Advanced Flutter • Firebase |
 | 🤝 **Looking for** | Internship & Open-source collabs |
 | ⚡ **Fun fact** | I love building apps that solve real-world problems |
 
