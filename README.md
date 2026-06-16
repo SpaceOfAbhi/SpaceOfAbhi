@@ -13,7 +13,7 @@
 | Project | Tech Stack | Links | Apk |
 |---------|------------|-------|-----|
 | **PosturePal** – Wear OS Smartwatch Posture Reminder| `Flutter` `Dart` `Kotlin` | [📁 Repo](https://github.com/SpaceOfAbhi/PosturePal) |
-| **ArchScan** – AI-powered Flutter architecture analyzer| `Dart` `Groq`| [📁 Repo](https://github.com/SpaceOfAbhi/archscan) &nbsp [🔗Pub.dev](https://pub.dev/packages/archscan) |
+| **ArchScan** – AI-powered Flutter architecture analyzer| `Dart` `Groq`| [📁 Repo](https://github.com/SpaceOfAbhi/archscan)   [🔗Pub.dev](https://pub.dev/packages/archscan) |
 | **TurfMate** – Turf Match Coordination Platform | `Flutter` `Node.js` `PostgreSQL` `Firebase` | [📁 Repo](https://github.com/SpaceOfAbhi/TurfMate) | [📱 APK](https://github.com/SpaceOfAbhi/TurfMate/releases/tag/v1.0.0) |
 | **NoStressr** – Stress Management | `Flutter` `Dart` `Firebase` `Rive` | [📁 Repo](https://github.com/SpaceOfAbhi/NoStressr) | [📱 APK](https://github.com/SpaceOfAbhi/NoStressr/releases/tag/v1.0.0) |
 | **APLMS**  | `HTML` `CSS` `ElectronJs` `NodeJs` `Firebase` | [📁 Repo](https://github.com/SpaceOfAbhi/Academic-programming-laboratory-management-system) |
