@@ -1,58 +1,46 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=79ff97&center=true&vCenter=true&width=500&height=70&lines=abhinav+santhosh" alt="name" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=600&color=888888&center=true&vCenter=true&width=500&height=40&lines=flutter+developer;problem+solver;tech+enthusiast;open-source+contributor" alt="roles" />
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SpaceOfAbhi)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinavsanthosh1289)
-[![Email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhinav522005@gmail.com)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=79ff97&center=true&vCenter=true&width=500&height=100&lines=Hi%2C+I'm+Abhinav+Santhosh;Flutter+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
-
----
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=SpaceOfAbhi&show_icons=true&hide_border=true&count_private=true&theme=transparent&hide_title=true&icon_color=79ff97&text_color=888888" width="42%" />
-
-**stack**
-
-```
-Flutter · Dart · Python · Java
-Node.js · PostgreSQL · Firebase · MySQL
-```
-
-**now**
-
-```
-🟢 building   → mobile apps
-📖 learning   → advanced Flutter & Firebase
-🤝 open to    → internships & open-source
-```
-
-<br clear="right"/>
-
----
-
-**projects**
-
-| project | about | stack |
-|---|---|---|
-| [**PosturePal**](https://github.com/SpaceOfAbhi/PosturePal) | Wear OS posture reminder | `Flutter` `Dart` `Kotlin` |
-| [**ArchScan**](https://github.com/SpaceOfAbhi/archscan) · [pub.dev](https://pub.dev/packages/archscan) | AI Flutter architecture analyzer | `Dart` `Groq` |
-| [**TurfMate**](https://github.com/SpaceOfAbhi/TurfMate) · [APK](https://github.com/SpaceOfAbhi/TurfMate/releases/tag/v1.0.0) | turf match coordination | `Flutter` `Node.js` `PostgreSQL` `Firebase` |
-| [**NoStressr**](https://github.com/SpaceOfAbhi/NoStressr) · [APK](https://github.com/SpaceOfAbhi/NoStressr/releases/tag/v1.0.0) | stress management app | `Flutter` `Firebase` `Rive` |
-| [**APLMS**](https://github.com/SpaceOfAbhi/Academic-programming-laboratory-management-system) | lab management system | `Electron.js` `Node.js` `Firebase` |
-
----
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SpaceOfAbhi&hide_border=true&background=00000000&stroke=333333&ring=79ff97&fire=79ff97&currStreakLabel=888888&sideLabels=888888&dates=555555&currStreakNum=eeeeee&sideNums=eeeeee" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=2000&color=555555&center=true&vCenter=true&width=400&height=30&lines=always+learning.+always+building." alt="footer" />
-
+  <img src="https://skillicons.dev/icons?i=c,python,java,html,css,js,flutter,dart,mysql,nodejs,postgresql,postman,git,github,firebase" />
 </div>
+
+---
+
+### 🚀 Projects
+
+| Project | Tech Stack | Links | Apk |
+|---------|------------|-------|-----|
+| **PosturePal** – Wear OS Smartwatch Posture Reminder| `Flutter` `Dart` `Kotlin` | [📁 Repo](https://github.com/SpaceOfAbhi/PosturePal) |
+| **ArchScan** – AI-powered Flutter architecture analyzer| `Dart` `Groq`| [📁 Repo](https://github.com/SpaceOfAbhi/archscan)   [🔗Pub.dev](https://pub.dev/packages/archscan) |
+| **TurfMate** – Turf Match Coordination Platform | `Flutter` `Node.js` `PostgreSQL` `Firebase` | [📁 Repo](https://github.com/SpaceOfAbhi/TurfMate) | [📱 APK](https://github.com/SpaceOfAbhi/TurfMate/releases/tag/v1.0.0) |
+| **NoStressr** – Stress Management | `Flutter` `Dart` `Firebase` `Rive` | [📁 Repo](https://github.com/SpaceOfAbhi/NoStressr) | [📱 APK](https://github.com/SpaceOfAbhi/NoStressr/releases/tag/v1.0.0) |
+| **APLMS**  | `HTML` `CSS` `ElectronJs` `NodeJs` `Firebase` | [📁 Repo](https://github.com/SpaceOfAbhi/Academic-programming-laboratory-management-system) |
+
+---
+
+### 📌 Quick Bits
+
+| | |
+|---|---|
+| 🔭 **Working on** | Mobile Application Development |
+| 🌱 **Learning** | Advanced Flutter • Firebase |
+| 🤝 **Looking for** | Internship & Open-source collabs |
+| ⚡ **Fun fact** | I love building apps that solve real-world problems |
+
+---
+
+### 📫 Find me
+
+<p align="center">
+  <a href="https://github.com/SpaceOfAbhi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/abhinavsanthosh1289"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abhinav522005@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <b>⭐ Always learning. Always building.</b>
+</p>
