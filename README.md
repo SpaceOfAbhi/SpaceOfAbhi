@@ -11,7 +11,7 @@
 ### 🚀 Projects
 
 | Project | Tech Stack | Apk/Live |
-|---------|------------|-------|-----|
+|---------|------------|----------|
 | **PosturePal** – Wear OS Smartwatch Posture Reminder| `Flutter` `Dart` `Kotlin` | [📁 Repo](https://github.com/SpaceOfAbhi/PosturePal) |
 | **ArchScan** – AI-powered Flutter architecture analyzer| `Dart` `Groq`| [📁 Repo](https://github.com/SpaceOfAbhi/archscan)  | [🔗Pub.dev](https://pub.dev/packages/archscan) |
 | **TurfMate** – Turf Match Coordination Platform | `Flutter` `Node.js` `PostgreSQL` `Firebase` | [📁 Repo](https://github.com/SpaceOfAbhi/TurfMate) | [📱 APK](https://github.com/SpaceOfAbhi/TurfMate/releases/tag/v1.0.0) |
