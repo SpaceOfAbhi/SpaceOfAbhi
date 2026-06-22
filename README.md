@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,java,html,css,js,flutter,dart,mysql,nodejs,postgresql,postman,git,github,firebase" />
+  <img src="https://skillicons.dev/icons?i=c,python,java,html,css,js,react,flutter,dart,mysql,nodejs,postgresql,mongodb,postman,git,github,firebase" />
 </div>
 
 ---
